@@ -1,5 +1,6 @@
 node {
-    git url: 'https://github.com/jaswanthpram/project-example.git'
+    git  url: 'https://github.com/jfrogdev/project-examples.git'
+
     pipeline{
     agent any
 
